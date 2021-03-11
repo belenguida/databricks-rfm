@@ -5,8 +5,6 @@
 # 2. A partir de los datos extraidos y preprocesados anteriormente (ver pipeline) se ejecuta el modelo RFM
 # 3. Deploy del modelo 
 # 
-
-# actualizar key vault con las claves
 workspace="RFM_test"
 subscription_id= "275232e0-797c-4edb-9792-7e34f3eb5434"#"7a9aeede-b4a3-4258-9edd-d15bc7318a64"
 resource_grp="rfm_test"
