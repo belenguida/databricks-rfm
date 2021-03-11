@@ -1,12 +1,4 @@
 # Databricks notebook source
-# MAGIC %sh git init
-# MAGIC git add *
-# MAGIC git commit -m “first commit”
-# MAGIC git remote add origin https://github.com/belenguida/databricks-rfm
-# MAGIC git push -u origin master
-
-# COMMAND ----------
-
 # En esta notebook se genera la tabla final con los segmentos de clientes según el modelo RFM
 # Acciones que se ejecutan en esta notebook:
 # 1. Inicializar la instancia de Azure Machine Learning Service
